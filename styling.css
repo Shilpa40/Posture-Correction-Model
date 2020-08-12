@@ -1,0 +1,19 @@
+button {
+    background-color: #e8eff1;
+    color: rgb(60, 136, 212);
+    border-radius: 8px;
+    padding: 14px 40px;
+    font-size: 20px;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#para {
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+}
